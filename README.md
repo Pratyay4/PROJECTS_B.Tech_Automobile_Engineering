@@ -1,6 +1,6 @@
-# Hi, I'm Pratyay 👋
+# Hey there 👋
 
-Welcome to my undergraduate engineering portfolio. This repository contains a curated collection of my academic and research projects completed during my B.Tech in Automobile Engineering. 
+Welcome to my undergraduate engineering portfolio. This repository contains a collection of my academic research projects completed during my B.Tech in Automobile Engineering. 
 
 My work here spans alternative fuels, additive manufacturing, and vehicle systems, demonstrating a hands-on approach to solving complex mechanical and automotive challenges.
 
